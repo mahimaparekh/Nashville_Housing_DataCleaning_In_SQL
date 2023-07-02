@@ -14,5 +14,5 @@ Project Files:
 To run this project locally, follow these steps:
 1. Ensure you have SSMS installed on your computer.
 2. Create a new database in SQL Server.
-3. Import `Nashville_Housing_Data.xlsx` as tables
-4. Open the `NashvilleHousing_DataCleaning.sql` file and execute the SQL queries grdaually in your SQL Server environment. Executing these queries will cleanse the data, resulting in a streamlined and more condensed dataset.
+3. Import `Nashville_Housing_Data.xlsx` as a table
+4. Open the `NashvilleHousing_DataCleaning.sql` file and execute the SQL queries individually in your SQL Server environment. Executing these queries will cleanse the data, resulting in a streamlined and more condensed dataset.
